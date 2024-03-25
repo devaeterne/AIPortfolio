@@ -4,6 +4,8 @@ AI web sitesi ve AI görseller
 ## Site Yayınlanmıştır.
 [devaeterne](https://ai.safaksariyildiz.com)
 
+![alt text](ss-1.png)
+
 
 # Prompts
 - Web Sitesi ChatGPT ile hazırlanmış js ve css dosyalarında oynama yapılmıştır. code pen ve bir kaç portfolio sitesinden alıntılar yapılmıştır.
