@@ -1,6 +1,8 @@
 # AIPortfolio
 AI web sitesi ve AI görseller
 
+## Site Yayınlanmıştır.
+[devaeterne](https://ai.safaksariyildiz.com)
 
 
 # Prompts
