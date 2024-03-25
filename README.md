@@ -5,6 +5,13 @@ AI web sitesi ve AI görseller
 [devaeterne](https://ai.safaksariyildiz.com)
 
 ![alt text](ss-1.png)
+![alt text](assets/img/portfolio/portfolio-1.jpg)
+![alt text](assets/img/portfolio/portfolio-2.jpg)
+![alt text](assets/img/portfolio/portfolio-3.jpg)
+![alt text](assets/img/portfolio/portfolio-4.jpg)
+![alt text](assets/img/portfolio/portfolio-5.jpg)
+![alt text](assets/img/portfolio/portfolio-6.jpg)
+
 
 
 # Prompts
